@@ -8,4 +8,6 @@ awk, gawk related links
 
 Links
 =====
-
+How to use ‘awk’ to print columns from a text file (in any order)
+By Alvin Alexander. Last updated: May 1 2019
+https://alvinalexander.com/blog/post/linux-unix/any-easy-way-print-column-or-columns-from-text-file-using-awk
